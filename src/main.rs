@@ -43,7 +43,6 @@ fn validate_safety_system() {
 }
 
 /// Calculate the safety status
-//true, false, true, 0
 fn calculate_safety_status(
     wolves_nearby: bool,
     day_time: bool,
